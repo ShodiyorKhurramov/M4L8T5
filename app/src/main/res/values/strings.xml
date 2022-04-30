@@ -1,0 +1,12 @@
+<resources>
+    <string name="app_name">M4L8T5</string>
+    <string name="contact_name">Contact Name</string>
+    <string name="contact_number">Contact Number</string>
+    <string name="username">\@username</string>
+    <string name="user_name">User Name</string>
+    <string name="tashkent_uzbekistan">Tashkent, Uzbekistan</string>
+    <string name="apple">apple</string>
+    <string name="apple_park_california">Apple Park, California</string>
+    <string name="shodiyor">Shodiyor</string>
+    <string name="mfaktor">MFaktor</string>
+</resources>
